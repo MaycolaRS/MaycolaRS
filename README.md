@@ -5,11 +5,9 @@
 📈 Sempre buscando aprender e evoluir como desenvolvedor  
 🚀 Em construção... assim como meus projetos :)
 
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats](https://github.com/MaycolaRS/MaycolaRS">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+<p align="center">
+  <img src="https://link-da-imagem.png" alt="Minha imagem" width="300"/>
+</p>
 
 
 <!-- Entre em contato ou veja mais sobre mim nos repositórios! -->
