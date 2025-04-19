@@ -6,7 +6,9 @@
 🚀 Em construção... assim como meus projetos :)
 
 <p align="center">
-  <img src="https://br.pinterest.com/pin/2674081024415250/" alt="Minha imagem" width="300"/>
+  <a href="https://www.pinterest.com/pin/2674081024415250/" target="_blank">
+    <img src="https://i.pinimg.com/236x/2d/4c/9b/2d4c9bd3b6b20a843a88e7712e1d6a0f.jpg" alt="Imagem do Pinterest" />
+  </a>
 </p>
 
 
